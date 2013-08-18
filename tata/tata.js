@@ -23,8 +23,7 @@
             scrollSpeed : 500, // the scroll speed to the top
             scrollAnimType : "swing", // the scroll animation type. use the jquery easing plugin for more options i.e. 'easeOutElastic' for a more rubbery effect :)
             distRight : 30, // the position of Tata from the right of its container
-            distBottom : 20, // the postiion of Tata from the bottom of its container
-	        mobileSupport : "on" // should Tata respond to the size of the screen? i.e. mobile devices
+            distBottom : 20 // the postiion of Tata from the bottom of its container
         }, options);
 
         // CHECKS IF THE SELECTOR IS THE BODY OR HTML
