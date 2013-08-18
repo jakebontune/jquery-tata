@@ -8,13 +8,13 @@
 
 Again it's very simple to use:
 
-Include jQuery, `tata.css`, and `tata.min.js` in your page like so:
+Include `tata.css`, jQuery, and `tata.min.js` in your page like so:
 
     <link href="tata.css" rel="stylesheet" />
     <script src="jquery.min.js"></script>
     <script src="tata.min.js></script>
 
-And also include the `up.png` near `tata.css`.
+And also place the `up.png` near `tata.css`.
 
 Then activate Tata:
 
@@ -28,7 +28,7 @@ containers.tata();</pre>
 
 By default Tata will include a small arrow on the bottom right of the container. Of course, you can edit the css to use your own image.
 
-There are a number of settings that you can alter to fully enjoy your Tata experience. Here are the defaults:
+There are a number of settings that you can alter to get the most out of your Tata experience. Here are the defaults:
 
 <pre>tataWait : 600, // the position the scroll bar has to be at before Tata shows up
 fadeInSpeed: 200 // Tata fade in speed
@@ -45,10 +45,10 @@ container.tata({
 	distRight: 40
 });</pre>
 
-There's a more advanced and customizable version Tata being built with bootstrap 3 in mind. So check back for updates.
+There's a more advanced and customizable version of Tata being built with bootstrap 3 in mind. So check back for updates.
 
 ###License
 ***
-Tata is open source under the MIT license. Enjoy.
+Tata is open source under the MIT license. Enjoy!
 ***
 Copyright &copy; 2013. Joseph Ayo-Vaughan.
