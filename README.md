@@ -4,6 +4,7 @@
 **Tata** is a very simple jQuery plugin that scrolls your container to its top. The interesting part is that you can use it on multiple containers on the same page.
 
 ### Implementation ###
+***
 
 Again it's very simple to use:
 
