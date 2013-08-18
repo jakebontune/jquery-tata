@@ -1,0 +1,14 @@
+.tata {
+	width: 50px;
+	height: 50px;
+	background: url("up.png") no-repeat 0 0;
+	border-radius: 5px;
+	position: fixed;
+	cursor: pointer;
+	display: none;
+}
+
+.tata:hover, .tata:active {
+	border-color: #464646;
+	background-position: -50px 0;
+}

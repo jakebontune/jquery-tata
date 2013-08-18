@@ -1,0 +1,55 @@
+body {
+    font-family: 'Trebuchet MS', arial, sans-serif;
+}
+
+.clickme {
+	cursor: pointer;
+	color: #970000;
+}
+
+.welcome {
+	margin-bottom: 20px;
+}
+
+.welcome header {
+	color: #303030;
+	padding: 20px;
+	background-color: #e9e9e9;
+}
+
+.welcome h1 {
+	font-size: 20em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.welcome h6 {
+	margin-top: 0;
+	font-size: 1em;
+}
+
+.welcome p {
+	color: #282828;
+	text-align: center;
+}
+
+.usage {
+	text-align: right;
+}
+
+.content {
+	width: 980px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.section {
+	height: 300px;
+	overflow-y: scroll;
+	width: 500px;
+	margin: 0 auto 50px auto;
+	padding: 20px;
+	border: 2px solid #e9e9e9;
+	border-radius: 20px;
+	position: relative;
+}
