@@ -1,7 +1,7 @@
 ## Tata ##
 ...try saying "to top" really fast ![](http://erkani.de/images/smiley-tongue-out.gif)
 
-**Tata** is a very simple jQuery plugin that scrolls your container to its top. The interesting part is that you can use it on multiple containers on the same page.
+**Tata** is a very simple jQuery plugin that scrolls your container to its top. The interesting part is that you can use it on multiple containers on the same page. Requires jQuery 1.7+.
 
 ### Implementation ###
 ***
